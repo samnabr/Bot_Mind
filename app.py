@@ -1555,7 +1555,7 @@ def main():
     # Iniciar o bot
     print("[Main] Bot está rodando...")
     app.run_polling()
-    print("[Main] Bot parou de rodarr.")
+    print("[Main] Bot parou de rodar.")
 
 if __name__ == '__main__':
     main()
